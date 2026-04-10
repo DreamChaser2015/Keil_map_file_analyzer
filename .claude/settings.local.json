@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd.exe /c \"analyze_map.bat stm32_usb_flash_tool.map\")"
+    ]
+  }
+}
